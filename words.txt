@@ -1,0 +1,10 @@
+apple
+banana
+orange
+python
+planet
+guitar
+computer
+castle
+flower
+library
